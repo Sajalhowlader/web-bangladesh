@@ -53,7 +53,6 @@ button.button_tag a {
 }
 
 .contain_rapper {
-    /* margin-right: 65px; */
     box-shadow: 7px 9px 18px 0px #a7a7a7;
     border-left: 3px solid;
     border-image: linear-gradient(#00000085,#c7c7c7);
@@ -94,4 +93,7 @@ h1.class {
     text-shadow: 2px 1px red;
     font-size: 30px;
     color: #021e17;
+}
+.contain_rapper img {
+    height: 200px;
 }
