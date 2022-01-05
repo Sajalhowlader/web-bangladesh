@@ -1,0 +1,97 @@
+*{margin:0;padding:0; box-sizing: border-box;}
+h1.title {font-size: 30px;font-family: arial;color: green;text-align: center;padding: 40px 0px;}
+.prents {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.child_two {
+    width: 450px;
+    margin-left: 84px;
+}
+
+img {
+    width: 100%;
+}
+
+.child_one {
+    width: 800px;
+    margin-right: 50px;
+}
+
+h2.first_title {
+    font-size: 30px;
+    padding: 25px 0px;
+}
+
+p.info_pag {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+button.button_tag {
+    padding: 12px 40px;
+    background: linear-gradient(
+        45deg, #047658, red);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button.button_tag a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.prents_two {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contain_rapper {
+    /* margin-right: 65px; */
+    box-shadow: 7px 9px 18px 0px #a7a7a7;
+    border-left: 3px solid;
+    border-image: linear-gradient(#00000085,#c7c7c7);
+    border-image-slice: 1;
+    border-radius: 4px;
+    width: 28%;
+}
+
+h2.duc {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+section.secont_sec {
+    padding: 50px 0px;
+}
+
+p.maintaint {
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+.containt_dic {
+    padding: 15px;
+}
+footer.main_one {
+    font-size: 18px;
+    text-align: center;
+    background: #ebeaea;
+    padding: 20px 0px;
+    color: #150624;
+}
+
+h1.class {
+    text-align: center;
+    margin-bottom: 100px;
+    text-shadow: 2px 1px red;
+    font-size: 30px;
+    color: #021e17;
+}
